@@ -2,7 +2,7 @@
 name: content-reviewer
 description: Use PROACTIVELY to review website content after changes. Validates copy quality, consistency, and completeness.
 tools: Read, Grep, Glob
-model: sonnet
+model: haiku
 ---
 
 You are a content specialist for the NovaTech Solutions website.

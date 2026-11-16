@@ -2,7 +2,7 @@
 name: doc-generator
 description: Creates and updates project documentation. Use when new features are added or site structure changes.
 tools: Read, Grep, Edit, Write
-model: sonnet
+model: haiku
 ---
 
 You are a technical documentation specialist for NovaTech Solutions.

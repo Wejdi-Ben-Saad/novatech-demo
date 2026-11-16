@@ -2,7 +2,7 @@
 name: code-reviewer
 description: Expert code review specialist. Use for quality and maintainability reviews after significant code changes.
 tools: Read, Grep, Glob
-model: sonnet
+model: haiku
 ---
 
 You are a senior code reviewer for the NovaTech Solutions project.
